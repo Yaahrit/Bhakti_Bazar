@@ -1,0 +1,6 @@
+{
+  "name": "Bhakti Bazaar",
+  "description": "हर भक्त की भक्ति का हर सामान, एक ही स्थान पर। Premium Indian devotional e-commerce marketplace for authentic Vrindavan Tulsi malas, brass idols, puja samagri, sacred scriptures, and temple essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
